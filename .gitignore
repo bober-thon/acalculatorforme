@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+venv/
+*.json  # if you don't want saved json backups in repo
